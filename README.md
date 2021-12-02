@@ -26,4 +26,5 @@ Deployed Application: [Budget Tracker]()
 GitHub profile [JohnsonHa801](https://github.com/Johnsonha801)
 
 ## Application
-![Working Project Screenshot]()
+![Working Project Screenshot](https://user-images.githubusercontent.com/84554237/144343962-9b086be1-7530-43b9-8545-c125a6747d8d.png
+)
