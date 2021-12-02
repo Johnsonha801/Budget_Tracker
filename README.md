@@ -23,7 +23,7 @@ Deployed Application: [Budget Tracker]()
 
 ## Questions
 
-GitHub profile [BradCassityDev](https://github.com/Johnsonha801)
+GitHub profile [JohnsonHa801](https://github.com/Johnsonha801)
 
 ## Application
 ![Working Project Screenshot]()
